@@ -1,4 +1,4 @@
-### GitHub Markdown
+### GitHub Markdown - Small conflict change master
 
 GitHub has many features that make it **stand out** in *version control*.
 
